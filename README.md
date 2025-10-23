@@ -9,7 +9,6 @@
 ## 🌱 Currently Learning
 - **Advanced React.js**, **Next.js**, **MongoDB**, **Express.js**, **Node.js**, **Tailwind CSS**
 - **Web Performance Optimization** and **Scalability**
-- **Cloud Technologies & DevOps** (Docker, Kubernetes, CI/CD)
 
 ## 💞️ Looking to Collaborate On
 - **Open Source Projects**
