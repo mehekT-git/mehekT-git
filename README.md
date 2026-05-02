@@ -10,32 +10,22 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-Table of Contents
-About
+Projects
 
-Python
-Tech Store Sales Analysis
+Python-Tech Store Sales Analysis
 
-SQL
-AdventureWorks Sales Overview By Customers and Product
-PIZZA SALES ANALYSIS
+SQL- AdventureWorks Sales Overview By Customers and Product And Pizza Sales Analysis
 
-Power BI
-Customer Churn Analysis in Power BI
-Restaurant Ratings Analysis
+Power BI - Customer Churn Analysis in Power BI And Restaurant Ratings Analysis
 
-Education
-Ramdeobaba College of Engineerinf and Management Nov 2022 - May 2026
+Education - Ramdeobaba College of Engineerinf and Management Nov 2022 - May 2026
 
 
-Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have:
+Certificates - The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have:
 
-Data Analysis and Visualization with Python Certificate (Sep 2025) (Coursera - Arizona State University)
-Introduction to Data Analysis Using Excel (Oct 2025) (Coursera - Rice University)
+Data Analysis and Visualization with Python Certificate (Sep 2025) (Coursera - Arizona State University),
+Introduction to Data Analysis Using Excel (Oct 2025) (Coursera - Rice University),
 Power BI for Data Science and Analytics (Oct 2025) (Coursera - Edureka)
 
 
-Contacts
-LinkedIn: https://www.linkedin.com/in/mehek-trivedi-b349682bb/
-Email: mehektrivedi28@gmail.com
+Contacts - LinkedIn: https://www.linkedin.com/in/mehek-trivedi-b349682bb/ And Email: mehektrivedi28@gmail.com
