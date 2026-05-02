@@ -15,9 +15,11 @@ About
 
 Python
 Tech Store Sales Analysis
+
 SQL
 AdventureWorks Sales Overview By Customers and Product
 PIZZA SALES ANALYSIS
+
 Power BI
 Customer Churn Analysis in Power BI
 Restaurant Ratings Analysis
